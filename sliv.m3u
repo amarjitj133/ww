@@ -1,0 +1,52 @@
+sony_channels_with_language.m3u
+#EXTM3U
+
+# === Hindi Channels ===
+#EXTINF:-1 tvg-id="1000009246" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/4_244.png" group-title="Entertainment" tvg-language="Hindi",SET HD
+https://mhdtvhub.com/sliv/stream.php?id=1000009246&e=.m3u8
+#EXTINF:-1 tvg-id="1000009248" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png" group-title="Entertainment" tvg-language="Hindi",Sony SAB HD
+https://mhdtvhub.com/sliv/stream.php?id=1000009248&e=.m3u8
+#EXTINF:-1 tvg-id="1000009273" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png" group-title="Entertainment" tvg-language="Hindi",Sony Pal
+https://mhdtvhub.com/sliv/stream.php?id=1000009273&e=.m3u8
+#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png" group-title="Kids" tvg-language="Hindi",Sony Yay
+https://mhdtvhub.com/sliv/stream.php?id=1000001971&e=.m3u8
+#EXTINF:-1 tvg-id="1000009247" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/35_249.png" group-title="Movies" tvg-language="Hindi",Sony MAX HD
+https://mhdtvhub.com/sliv/stream.php?id=1000009247&e=.m3u8
+#EXTINF:-1 tvg-id="1000009249" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/1_248.png" group-title="Movies" tvg-language="Hindi",Sony MAX
+https://mhdtvhub.com/sliv/stream.php?id=1000009249&e=.m3u8
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png" group-title="Movies" tvg-language="Hindi",Sony MAX 2
+https://mhdtvhub.com/sliv/stream.php?id=1000009253&e=.m3u8
+#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png" group-title="Movies" tvg-language="Hindi",Sony WAH
+https://mhdtvhub.com/sliv/stream.php?id=1000044878&e=.m3u8
+
+# === English Channels ===
+#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png" group-title="Movies" tvg-language="English",Sony PIX HD
+https://mhdtvhub.com/sliv/stream.php?id=1000009258&e=.m3u8
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/21_266.png" group-title="Sports" tvg-language="English",Sony Sports Ten 1 HD
+https://mhdtvhub.com/sliv/stream.php?id=1000009276&e=.m3u8
+#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png" group-title="Sports" tvg-language="English",Sony Sports Ten 1
+https://mhdtvhub.com/sliv/stream.php?id=1000009280&e=.m3u8
+#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png" group-title="Sports" tvg-language="English",Sony Sports Ten 2
+https://mhdtvhub.com/sliv/stream.php?id=1000009279&e=.m3u8
+#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_274.png" group-title="Sports" tvg-language="English",Sony Sports Ten 3
+https://mhdtvhub.com/sliv/stream.php?id=1000009283&e=.m3u8
+#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png" group-title="Sports" tvg-language="English",Sony Sports Ten 4
+https://mhdtvhub.com/sliv/stream.php?id=1000119187&e=.m3u8
+#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png" group-title="Sports" tvg-language="English",Sony Sports Ten 5
+https://mhdtvhub.com/sliv/stream.php?id=1000009281&e=.m3u8
+#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/23_267.png" group-title="Sports" tvg-language="English",Sony Sports Ten 2 HD
+https://mhdtvhub.com/sliv/stream.php?id=1000009277&e=.m3u8
+#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/25_276.png" group-title="Sports" tvg-language="English",Sony Sports Ten 3 HD
+https://mhdtvhub.com/sliv/stream.php?id=1000009278&e=.m3u8
+#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png" group-title="Sports" tvg-language="English",Sony Sports Ten 4 HD
+https://mhdtvhub.com/sliv/stream.php?id=1000119186&e=.m3u8
+#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/19_270.png" group-title="Sports" tvg-language="English",Sony Sports Ten 5 HD
+https://mhdtvhub.com/sliv/stream.php?id=1000009275&e=.m3u8
+
+# === Marathi Channels ===
+#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/36_260.png" group-title="Entertainment" tvg-language="Marathi",Sony Marathi
+https://mhdtvhub.com/sliv/stream.php?id=1000009259&e=.m3u8
+
+# === Bengali Channels ===
+#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/9_255.png" group-title="Entertainment" tvg-language="Bengali",Sony Aath
+https://mhdtvhub.com/sliv/stream.php?id=1000009255&e=.m3u8
