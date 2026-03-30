@@ -1,0 +1,105 @@
+#EXTM3U
+
+# ========== HINDI ENTERTAINMENT ==========
+#EXTINF:-1 tvg-id="ZEE TV" tvg-name="ZEE TV" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FyHNSuG1V.png" tvg-group="Hindi Entertainment" tvg-language="Hindi",ZEE TV
+https://www.mhdtvhub.com/ww/zee/play.php?id=ZEE TV
+
+#EXTINF:-1 tvg-id="AND TV" tvg-name="&TV" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FT1CCvaAQ.png" tvg-group="Hindi Entertainment" tvg-language="Hindi",AND TV
+https://www.mhdtvhub.com/ww/zee/play.php?id=AND TV
+
+#EXTINF:-1 tvg-id="ZEE ANMOL" tvg-name="ZEE ANMOL" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FQjKdER9Z.png" tvg-group="Hindi Entertainment" tvg-language="Hindi",ZEE ANMOL
+https://www.mhdtvhub.com/ww/zee/play.php?id=ZEE ANMOL
+
+#EXTINF:-1 tvg-id="ZOOM" tvg-name="ZOOM" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FjLvKrs62.png" tvg-group="Hindi Entertainment" tvg-language="Hindi",ZOOM
+https://www.mhdtvhub.com/ww/zee/play.php?id=ZOOM
+
+#EXTINF:-1 tvg-id="ZING" tvg-name="ZING" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FNyi83z1G.png" tvg-group="Hindi Entertainment" tvg-language="Hindi",ZING
+https://www.mhdtvhub.com/ww/zee/play.php?id=ZING
+
+# ========== HINDI MOVIES ==========
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-name="ZEE CINEMA" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2Fqss9gFuH.png" tvg-group="Hindi Movies" tvg-language="Hindi",ZEE CINEMA
+https://www.mhdtvhub.com/ww/zee/play.php?id=ZEE CINEMA
+
+#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FdiYkUOnX.png" tvg-group="Hindi Movies" tvg-language="Hindi",ZEE ANMOL CINEMA
+https://www.mhdtvhub.com/ww/zee/play.php?id=ZEE ANMOL CINEMA
+
+#EXTINF:-1 tvg-id="AND PICTURES" tvg-name="& Pictures" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FHivVrdof.png" tvg-group="Hindi Movies" tvg-language="Hindi",AND PICTURES
+https://www.mhdtvhub.com/ww/zee/play.php?id=AND PICTURES
+
+#EXTINF:-1 tvg-id="ZEE BOLLYWOOD" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FEqDlflgi.png" tvg-group="Hindi Movies" tvg-language="Hindi",ZEE BOLLYWOOD
+https://www.mhdtvhub.com/ww/zee/play.php?id=ZEE BOLLYWOOD
+
+# ========== REGIONAL - BENGALI ==========
+#EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2F9XHWylqs.png" tvg-group="Regional | Bengali" tvg-language="Bengali",Zee Bangla
+https://www.mhdtvhub.com/ww/zee/play.php?id=Zee Bangla
+
+#EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FgLSSl4nG.png" tvg-group="Regional | Bengali" tvg-language="Bengali",Zee Bangla Cinema
+https://www.mhdtvhub.com/ww/zee/play.php?id=Zee Bangla Cinema
+
+# ========== REGIONAL - MARATHI ==========
+#EXTINF:-1 tvg-id="Zee Marathi HD" tvg-name="Zee Marathi HD" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2F4bimlHJj.png" tvg-group="Regional | Marathi" tvg-language="Marathi",Zee Marathi HD
+https://www.mhdtvhub.com/ww/zee/play.php?id=Zee Marathi HD
+
+#EXTINF:-1 tvg-id="Zee Talkies" tvg-name="Zee Talkies" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVGfIqjrc.png" tvg-group="Regional | Marathi" tvg-language="Marathi",Zee Talkies
+https://www.mhdtvhub.com/ww/zee/play.php?id=Zee Talkies
+
+# ========== REGIONAL - TAMIL ==========
+#EXTINF:-1 tvg-id="Zee Tamil" tvg-name="Zee Tamil" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FZee_Tamil.png" tvg-group="Regional | Tamil" tvg-language="Tamil",Zee Tamil
+https://www.mhdtvhub.com/ww/zee/play.php?id=Zee Tamil
+
+# ========== REGIONAL - TELUGU ==========
+#EXTINF:-1 tvg-id="Zee Telugu HD" tvg-name="Zee Telugu HD" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2F6vNzRaRK.png" tvg-group="Regional | Telugu" tvg-language="Telugu",Zee Telugu HD
+https://www.mhdtvhub.com/ww/zee/play.php?id=Zee Telugu HD
+
+# ========== REGIONAL - KANNADA ==========
+#EXTINF:-1 tvg-id="Zee Kannada HD" tvg-name="Zee Kannada HD" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2F1PrOGXAh.png" tvg-group="Regional | Kannada" tvg-language="Kannada",Zee Kannada HD
+https://www.mhdtvhub.com/ww/zee/play.php?id=Zee Kannada HD
+
+# ========== REGIONAL - ODIA ==========
+#EXTINF:-1 tvg-id="Zee Sarthak" tvg-name="Zee Sarthak" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fd388d59m61mm0v.cloudfront.net%2Foptimized%2Fcontent%2Fcommon%2Flogos%2Fchannel%2Flogos%2Fzee-sarthak.png" tvg-group="Regional | Odia" tvg-language="Odia",Zee Sarthak
+https://www.mhdtvhub.com/ww/zee/play.php?id=Zee Sarthak
+
+# ========== REGIONAL - BIHAR/JHARKHAND ==========
+#EXTINF:-1 tvg-id="ZEE BIH/JH" tvg-name="ZEE BIHAR/JHARKHAND" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2F5zkMvEbF.png" tvg-group="Regional | Bihar/Jharkhand" tvg-language="Bhojpuri",ZEE BIH/JH
+https://www.mhdtvhub.com/ww/zee/play.php?id=ZEE BIH/JH
+
+# ========== MUSIC ==========
+#EXTINF:-1 tvg-id="MTVBEATS" tvg-name="MTV BEATS" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FMJZdklJi.png" tvg-group="Music" tvg-language="Hindi",MTVBEATS
+https://www.mhdtvhub.com/ww/zee/play.php?id=MTVBEATS
+
+# ========== KNOWLEDGE & LIFESTYLE ==========
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="Discovery Channel" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FUyI5ljKM.png" tvg-group="Knowledge & Lifestyle" tvg-language="English",DISCOVERY CHANNEL
+https://www.mhdtvhub.com/ww/zee/play.php?id=DISCOVERY CHANNEL
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="Discovery Science" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FvIA7TExn.png" tvg-group="Knowledge & Lifestyle" tvg-language="English",DISCOVERY SCIENCE
+https://www.mhdtvhub.com/ww/zee/play.php?id=DISCOVERY SCIENCE
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="Discovery Turbo" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2F6eCv1iuk.png" tvg-group="Knowledge & Lifestyle" tvg-language="English",DISCOVERY TURBO
+https://www.mhdtvhub.com/ww/zee/play.php?id=DISCOVERY TURBO
+
+#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY" tvg-name="Investigation Discovery" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FmHhlDCiL.png" tvg-group="Knowledge & Lifestyle" tvg-language="English",INVESTIGATION DISCOVERY
+https://www.mhdtvhub.com/ww/zee/play.php?id=INVESTIGATION DISCOVERY
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FFOvFsIgt.png" tvg-group="Knowledge & Lifestyle" tvg-language="English",TLC
+https://www.mhdtvhub.com/ww/zee/play.php?id=TLC
+
+# ========== KIDS ==========
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="Discovery Kids" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FRzedYhFG.png" tvg-group="Kids" tvg-language="Hindi",DISCOVERY KIDS
+https://www.mhdtvhub.com/ww/zee/play.php?id=DISCOVERY KIDS
+
+# ========== NEWS ==========
+#EXTINF:-1 tvg-id="NDTVINDIA" tvg-name="NDTV India" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fd388d59m61mm0v.cloudfront.net%2Foptimized%2Fcontent%2Fcommon%2Flogos%2Fchannel%2Flogos%2Fiqfloc.png" tvg-group="News" tvg-language="Hindi",NDTVINDIA
+https://www.mhdtvhub.com/ww/zee/play.php?id=NDTVINDIA
+
+#EXTINF:-1 tvg-id="ZEE HINDUSTAN" tvg-name="ZEE HINDUSTAN" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FTknReKLD.png" tvg-group="News" tvg-language="Hindi",ZEE HINDUSTAN
+https://www.mhdtvhub.com/ww/zee/play.php?id=ZEE HINDUSTAN
+
+#EXTINF:-1 tvg-id="ZEE BUSINESS" tvg-name="ZEE BUSINESS" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FvExrDK9r.png" tvg-group="News" tvg-language="Hindi",ZEE BUSINESS
+https://www.mhdtvhub.com/ww/zee/play.php?id=ZEE BUSINESS
+
+# ========== MOVIES - INTERNATIONAL ==========
+#EXTINF:-1 tvg-id="SHORTSTV" tvg-name="Shorts TV" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FlcMc75Xr.png" tvg-group="Movies | International" tvg-language="English",SHORTSTV
+https://www.mhdtvhub.com/ww/zee/play.php?id=SHORTSTV
+
+#EXTINF:-1 tvg-id="KOREAN DRAMAS" tvg-name="Korean Dramas" tvg-logo="https://www.mhdtvhub.com/ww/zee/index.php?get_logo=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FBNu8WvFw.png" tvg-group="Movies | International" tvg-language="Korean",KOREAN DRAMAS
+https://www.mhdtvhub.com/ww/zee/play.php?id=KOREAN DRAMAS
