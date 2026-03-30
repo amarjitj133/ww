@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="195491" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://upload.wikimedia.org/wikipedia/commons/4/43/Sun_TV_Logo_2026.png" group-title="SunNxt" tvg-type="Entertainment" tvg-language="Tamil",Sun TV HD - Dolby Vision
+https://mhdtvhub.com/ww/sun/play.php?id=195491
+#EXTINF:-1 tvg-id="194408" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://upload.wikimedia.org/wikipedia/commons/4/43/Sun_TV_Logo_2026.png" group-title="SunNxt" tvg-type="Entertainment" tvg-language="Tamil",Sun TV
+https://mhdtvhub.com/ww/sun/play.php?id=194408
+#EXTINF:-1 tvg-id="194405" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://upload.wikimedia.org/wikipedia/commons/d/d8/KTV_India_logo.png" group-title="SunNxt" tvg-type="Movies" tvg-language="Tamil",KTV HD
+https://mhdtvhub.com/ww/sun/play.php?id=194405
+#EXTINF:-1 tvg-id="194406" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://upload.wikimedia.org/wikipedia/commons/f/f0/Sun_Music_(No_Background).png" group-title="SunNxt" tvg-type="Music" tvg-language="Tamil",Sun Music HD
+https://mhdtvhub.com/ww/sun/play.php?id=194406
+#EXTINF:-1 tvg-id="194391" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://upload.wikimedia.org/wikipedia/commons/4/44/Sun_Life_Channel.png" group-title="SunNxt" tvg-type="Lifestyle" tvg-language="Tamil",Sun Life
+https://mhdtvhub.com/ww/sun/play.php?id=194391
+#EXTINF:-1 tvg-id="194404" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://iconape.com/wp-content/png_logo_vector/sun-news-logo.png" group-title="SunNxt" tvg-type="News" tvg-language="Tamil",Sun News
+https://mhdtvhub.com/ww/sun/play.php?id=194404
+#EXTINF:-1 tvg-id="194407" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/56d79563d6d8dcbbc27989a61c84e79c.png" group-title="SunNxt" tvg-type="Comedy" tvg-language="Tamil",Adithya TV
+https://mhdtvhub.com/ww/sun/play.php?id=194407
+#EXTINF:-1 tvg-id="194390" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Chutti_TV.png/250px-Chutti_TV.png" group-title="SunNxt" tvg-type="Kids" tvg-language="Tamil",Chutti TV
+https://mhdtvhub.com/ww/sun/play.php?id=194390
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/06e801ef0646a5496e581f0dec5aea1d.png" group-title="SunNxt" tvg-type="Entertainment" tvg-language="Marathi",Sun Marathi AU
+https://mhdtvhub.com/ww/sun/play.php?id=
+#EXTINF:-1 tvg-id="194409" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://upload.wikimedia.org/wikipedia/commons/d/d8/KTV_India_logo.png" group-title="SunNxt" tvg-type="Movies" tvg-language="Tamil",KTV
+https://mhdtvhub.com/ww/sun/play.php?id=194409
+#EXTINF:-1 tvg-id="194410" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://upload.wikimedia.org/wikipedia/commons/f/f0/Sun_Music_(No_Background).png" group-title="SunNxt" tvg-type="Music" tvg-language="Tamil",Sun Music
+https://mhdtvhub.com/ww/sun/play.php?id=194410
+#EXTINF:-1 tvg-id="194392" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://upload.wikimedia.org/wikipedia/en/6/63/Gemini_TV_Logo.png" group-title="SunNxt" tvg-type="Entertainment" tvg-language="Telugu",Gemini TV HD
+https://mhdtvhub.com/ww/sun/play.php?id=194392
+#EXTINF:-1 tvg-id="192537" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/454cab94b1c0ce05d183bf8a0194be5d.png" group-title="SunNxt" tvg-type="Movies" tvg-language="Telugu",Gemini Movies HD
+https://mhdtvhub.com/ww/sun/play.php?id=192537
+#EXTINF:-1 tvg-id="194393" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://upload.wikimedia.org/wikipedia/commons/7/7a/Gemini_Music.png" group-title="SunNxt" tvg-type="Music" tvg-language="Telugu",Gemini Music HD
+https://mhdtvhub.com/ww/sun/play.php?id=194393
+#EXTINF:-1 tvg-id="194394" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/8ecf1c7a14a5f543ca60013e8d048aaf.png" group-title="SunNxt" tvg-type="Comedy" tvg-language="Telugu",Gemini Comedy
+https://mhdtvhub.com/ww/sun/play.php?id=194394
+#EXTINF:-1 tvg-id="194337" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/13efe10c9dd88d41662e0b57a427713a.png" group-title="SunNxt" tvg-type="Lifestyle" tvg-language="Telugu",Gemini Life
+https://mhdtvhub.com/ww/sun/play.php?id=194337
+#EXTINF:-1 tvg-id="194346" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/81899ec2abc64d967f9133a48592f174.png" group-title="SunNxt" tvg-type="Kids" tvg-language="Telugu",Kushi TV
+https://mhdtvhub.com/ww/sun/play.php?id=194346
+#EXTINF:-1 tvg-id="194396" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://upload.wikimedia.org/wikipedia/en/6/63/Gemini_TV_Logo.png" group-title="SunNxt" tvg-type="Entertainment" tvg-language="Telugu",Gemini TV
+https://mhdtvhub.com/ww/sun/play.php?id=194396
+#EXTINF:-1 tvg-id="194384" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://upload.wikimedia.org/wikipedia/commons/b/bc/Gemini_Movies.png" group-title="SunNxt" tvg-type="Movies" tvg-language="Telugu",Gemini Movies
+https://mhdtvhub.com/ww/sun/play.php?id=194384
+#EXTINF:-1 tvg-id="194395" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://upload.wikimedia.org/wikipedia/commons/7/7a/Gemini_Music.png" group-title="SunNxt" tvg-type="Music" tvg-language="Telugu",Gemini Music
+https://mhdtvhub.com/ww/sun/play.php?id=194395
+#EXTINF:-1 tvg-id="194397" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/7937b94516ad9d93c6a28abca4a674bb.png" group-title="SunNxt" tvg-type="Movies" tvg-language="Kannada",Udaya Movies
+https://mhdtvhub.com/ww/sun/play.php?id=194397
+#EXTINF:-1 tvg-id="194385" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/a4910befbe6bcbc4913127d349974b4a.png" group-title="SunNxt" tvg-type="Movies" tvg-language="Malayalam",Surya Movies
+https://mhdtvhub.com/ww/sun/play.php?id=194385
+#EXTINF:-1 tvg-id="194338" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://upload.wikimedia.org/wikipedia/commons/1/10/Sura_Music_TV_Logo.png" group-title="SunNxt" tvg-type="Music" tvg-language="Malayalam",Surya Music
+https://mhdtvhub.com/ww/sun/play.php?id=194338
+#EXTINF:-1 tvg-id="193251" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/5bc0a8bdc8c9ef0c62b2bff851e44cc3.png" group-title="SunNxt" tvg-type="Comedy" tvg-language="Malayalam",Surya Comedy
+https://mhdtvhub.com/ww/sun/play.php?id=193251
+#EXTINF:-1 tvg-id="194398" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://upload.wikimedia.org/wikipedia/en/5/5e/Surya_TV_logo.png" group-title="SunNxt" tvg-type="Entertainment" tvg-language="Malal",Surya TV
+https://mhdtvhub.com/ww/sun/play.php?id=194398
+#EXTINF:-1 tvg-id="194399" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/62f2e73595f00074eb8f15fe0d57bb50.png" group-title="SunNxt" tvg-type="Entertainment" tvg-language="Kannada",Udaya HD
+https://mhdtvhub.com/ww/sun/play.php?id=194399
+#EXTINF:-1 tvg-id="194401" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/3920ba522714d8a1adb2ca6200e50cdb.png" group-title="SunNxt" tvg-type="Music" tvg-language="Kannada",Udaya Music
+https://mhdtvhub.com/ww/sun/play.php?id=194401
+#EXTINF:-1 tvg-id="194400" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/692b463aa325470e79e359e5173e5875.png" group-title="SunNxt" tvg-type="Comedy" tvg-language="Kannada",Udaya Comedy
+https://mhdtvhub.com/ww/sun/play.php?id=194400
+#EXTINF:-1 tvg-id="194347" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/e4cf850d25a9b850d9e679c67b50e634.png" group-title="SunNxt" tvg-type="Kids" tvg-language="Kannada",Chintu TV
+https://mhdtvhub.com/ww/sun/play.php?id=194347
+#EXTINF:-1 tvg-id="193239" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/62f2e73595f00074eb8f15fe0d57bb50.png" group-title="SunNxt" tvg-type="Entertainment" tvg-language="Kannada",Udaya TV
+https://mhdtvhub.com/ww/sun/play.php?id=193239
+#EXTINF:-1 tvg-id="194389" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/640d8a63d8450c4c1b033dfced4bc4a8.png" group-title="SunNxt" tvg-type="Entertainment" tvg-language="Hindi",Sun Neo HD
+https://mhdtvhub.com/ww/sun/play.php?id=194389
+#EXTINF:-1 tvg-id="194388" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/cf2e6206e62ae37882bf3dbe98291d92.png" group-title="SunNxt" tvg-type="Entertainment" tvg-language="Bengali",Sun Bangla
+https://mhdtvhub.com/ww/sun/play.php?id=194388
+#EXTINF:-1 tvg-id="194387" tvg-logo="https://mhdtvhub.com/ww/sun/index.php?get_logo=https://jiotvimages.cdn.jio.com/dare_images/images/channel/06e801ef0646a5496e581f0dec5aea1d.png" group-title="SunNxt" tvg-type="Entertainment" tvg-language="Marathi",Sun Marathi
+https://mhdtvhub.com/ww/sun/play.php?id=194387
