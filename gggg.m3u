@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_384%2Fsources%2Fr1%2Fcms%2Fprod%2F8763%2F1739203338763-a " group-title="Sports" tvg-language="Hindi",SKY Sports HD
+https://mhdtvhub.com/geo/player.html?id=SKY%20Sports%20HD
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Plus_HD.png " group-title="Entertainment" tvg-language="Hindi",Star Plus HD
+https://mhdtvhub.com/geo/player.html?id=Star%20Plus%20HD
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Gold_HD.png " group-title="Movies" tvg-language="Hindi",Star Gold HD
+https://mhdtvhub.com/geo/player.html?id=Star%20Gold%20HD
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Gold_2_HD.png " group-title="Movies" tvg-language="Hindi",Star Gold 2 HD
+https://mhdtvhub.com/geo/player.html?id=Star%20Gold%202%20HD
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Gold_Select_HD.png " group-title="Movies" tvg-language="Hindi",Star Gold Select HD
+https://mhdtvhub.com/geo/player.html?id=Star%20Gold%20Select%20HD
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Bharat_HD.png " group-title="Entertainment" tvg-language="Hindi",Star Bharat HD
+https://mhdtvhub.com/geo/player.html?id=Star%20Bharat%20HD
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Movies_Select_HD.png " group-title="Movies" tvg-language="Hindi",Star Movies Select HD
+https://mhdtvhub.com/geo/player.html?id=Star%20Movies%20Select%20HD
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Movies_HD.png " group-title="Movies" tvg-language="Hindi",Star Movies HD
+https://mhdtvhub.com/geo/player.html?id=Star%20Movies%20HD
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Movies.png " group-title="Movies" tvg-language="Hindi",Star Movies
+https://mhdtvhub.com/geo/player.html?id=Star%20Movies
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Gold_Select.png " group-title="Movies" tvg-language="Hindi",Star Gold Select
+https://mhdtvhub.com/geo/player.html?id=Star%20Gold%20Select
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Gold.png " group-title="Movies" tvg-language="Hindi",Star Gold
+https://mhdtvhub.com/geo/player.html?id=Star%20Gold
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Utsav_Movies.png " group-title="Movies" tvg-language="Hindi",Star Utsav Movies
+https://mhdtvhub.com/geo/player.html?id=Star%20Utsav%20Movies
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Gold_2.png " group-title="Movies" tvg-language="Hindi",Star Gold 2
+https://mhdtvhub.com/geo/player.html?id=Star%20Gold%202
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Gold_Romance.png " group-title="Movies" tvg-language="Hindi",Star Gold Romance
+https://mhdtvhub.com/geo/player.html?id=Star%20Gold%20Romance
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Gold_Thrills.png " group-title="Movies" tvg-language="Hindi",Star Gold Thrills
+https://mhdtvhub.com/geo/player.html?id=Star%20Gold%20Thrills
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Movies_Select.png " group-title="Movies" tvg-language="Hindi",Star Movies Select
+https://mhdtvhub.com/geo/player.html?id=Star%20Movies%20Select
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FMaa_HD.png " group-title="Entertainment" tvg-language="Telugu",Star Maa HD
+https://mhdtvhub.com/geo/player.html?id=Star%20Maa%20HD
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Plus.png " group-title="Entertainment" tvg-language="Hindi",Star Plus
+https://mhdtvhub.com/geo/player.html?id=Star%20Plus
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Pravah.png " group-title="Entertainment" tvg-language="Marathi",Star Pravah
+https://mhdtvhub.com/geo/player.html?id=Star%20Pravah
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Jalsha.png " group-title="Entertainment" tvg-language="Bengali",Star Jalsha
+https://mhdtvhub.com/geo/player.html?id=Star%20Jalsha
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Bharat.png " group-title="Entertainment" tvg-language="Hindi",Star Bharat
+https://mhdtvhub.com/geo/player.html?id=Star%20Bharat
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FMaa_Music.png " group-title="Music" tvg-language="Telugu",Star Maa Music
+https://mhdtvhub.com/geo/player.html?id=Star%20Maa%20Music
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Vijay.png " group-title="Entertainment" tvg-language="Tamil",Star Vijay
+https://mhdtvhub.com/geo/player.html?id=Star%20Vijay
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Maa.png " group-title="Entertainment" tvg-language="Telugu",Star Maa
+https://mhdtvhub.com/geo/player.html?id=Star%20Maa
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Utsav.png " group-title="Entertainment" tvg-language="Hindi",Star Utsav
+https://mhdtvhub.com/geo/player.html?id=Star%20Utsav
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Pravah_Picture.png " group-title="Movies" tvg-language="Marathi",Star Pravah Picture
+https://mhdtvhub.com/geo/player.html?id=Star%20Pravah%20Picture
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Pravah_Picture_HD.png " group-title="Movies" tvg-language="Marathi",Star Pravah Picture HD
+https://mhdtvhub.com/geo/player.html?id=Star%20Pravah%20Picture%20HD
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Jalsha_HD.png " group-title="Entertainment" tvg-language="Bengali",Star Jalsha HD
+https://mhdtvhub.com/geo/player.html?id=Star%20Jalsha%20HD
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FNation_Star_News.png " group-title="News" tvg-language="Hindi",Nation World News
+https://mhdtvhub.com/geo/player.html?id=Nation%20World%20News
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Kiran.png " group-title="Entertainment" tvg-language="Kannada",Star Kiran
+https://mhdtvhub.com/geo/player.html?id=Star%20Kiran
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Pravah_HD.png " group-title="Entertainment" tvg-language="Marathi",Star Pravah HD
+https://mhdtvhub.com/geo/player.html?id=Star%20Pravah%20HD
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStar_Vijay_HD.png " group-title="Entertainment" tvg-language="Tamil",Star Vijay HD
+https://mhdtvhub.com/geo/player.html?id=Star%20Vijay%20HD
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FSuvarna_HD.png " group-title="Entertainment" tvg-language="Kannada",Star Suvarna HD
+https://mhdtvhub.com/geo/player.html?id=Star%20Suvarna%20HD
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FSuvarna.png " group-title="Entertainment" tvg-language="Kannada",Star Suvarna
+https://mhdtvhub.com/geo/player.html?id=Star%20Suvarna
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FMaa_Movies_HD.png " group-title="Movies" tvg-language="Telugu",Star Maa Movies HD
+https://mhdtvhub.com/geo/player.html?id=Star%20Maa%20Movies%20HD
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FMaa_Movies.png " group-title="Movies" tvg-language="Telugu",Star Maa Movies
+https://mhdtvhub.com/geo/player.html?id=Star%20Maa%20Movies
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FJalsha_Movies.png " group-title="Movies" tvg-language="Bengali",Star Jalsha Movies
+https://mhdtvhub.com/geo/player.html?id=Star%20Jalsha%20Movies
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FJalsha_Movies_HD.png " group-title="Movies" tvg-language="Bengali",Star Jalsha Movies HD
+https://mhdtvhub.com/geo/player.html?id=Star%20Jalsha%20Movies%20HD
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FSuvarna_Plus.png " group-title="Entertainment" tvg-language="Kannada",Star Suvarna Plus
+https://mhdtvhub.com/geo/player.html?id=Star%20Suvarna%20Plus
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FABSTAR_News.png " group-title="News" tvg-language="Hindi",AB Star News
+https://mhdtvhub.com/geo/player.html?id=AB%20Star%20News
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/geo/index.php?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FMaa_Gold.png " group-title="Entertainment" tvg-language="Telugu",Star Maa Gold
+https://mhdtvhub.com/geo/player.html?id=Star%20Maa%20Gold
