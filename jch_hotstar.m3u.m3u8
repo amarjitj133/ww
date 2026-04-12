@@ -1,0 +1,151 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Created: 2026-04-12 21:23:16
+
+#EXTINF:-1 tvg-id="001" tvg-name="STAR VIJAY SUPER SINGER" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/1199/1752742701199-h" group-title="Star Vijay",STAR VIJAY SUPER SINGER
+https://tulnit.fun/in/stream.php?id=001
+
+#EXTINF:-1 tvg-id="002" tvg-name="STAR VIJAY CLASSIC" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/7405/1752743467405-h" group-title="Star Vijay",STAR VIJAY CLASSIC
+https://tulnit.fun/in/stream.php?id=002
+
+#EXTINF:-1 tvg-id="003" tvg-name="STAR VIJAY MOVIE TIME" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/4044/1752743564044-h" group-title="Star Vijay",STAR VIJAY MOVIE TIME
+https://tulnit.fun/in/stream.php?id=003
+
+#EXTINF:-1 tvg-id="004" tvg-name="STAR VIJAY KALAKKAL COMEDY" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/8708/1752743198708-h" group-title="Star Vijay",STAR VIJAY KALAKKAL COMEDY
+https://tulnit.fun/in/stream.php?id=004
+
+#EXTINF:-1 tvg-id="005" tvg-name="STAR VIJAY FUN GAMES" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/3380/1752743343380-h" group-title="Star Vijay",STAR VIJAY FUN GAMES
+https://tulnit.fun/in/stream.php?id=005
+
+#EXTINF:-1 tvg-id="006" tvg-name="TATA IPL TV" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/2214/1750777602214-h" group-title="Sports",TATA IPL TV
+https://tulnit.fun/in/stream.php?id=006
+
+#EXTINF:-1 tvg-id="007" tvg-name="STAR SPORTS CRICKET CLASSIC" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5745/1750779565745-h" group-title="Sports",STAR SPORTS CRICKET CLASSIC
+https://tulnit.fun/in/stream.php?id=007
+
+#EXTINF:-1 tvg-id="008" tvg-name="T20s TV" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/3639/1756796893639-h" group-title="Hotstar",T20s TV
+https://tulnit.fun/in/stream.php?id=008
+
+#EXTINF:-1 tvg-id="009" tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" group-title="Sports",Star Sports 2 Hindi HD
+https://tulnit.fun/in/stream.php?id=009
+
+#EXTINF:-1 tvg-id="010" tvg-name="Star Sports 2 Hindi" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_Transparent_e2c035d5-8451-4c1e-930f-4cb4449d1901.png" group-title="Sports",Star Sports 2 Hindi
+https://tulnit.fun/in/stream.php?id=010
+
+#EXTINF:-1 tvg-id="011" tvg-name="Star Sports 2 Telugu" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png" group-title="Sports",Star Sports 2 Telugu
+https://tulnit.fun/in/stream.php?id=011
+
+#EXTINF:-1 tvg-id="012" tvg-name="Star Sports 2 Tamil" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png" group-title="Sports",Star Sports 2 Tamil
+https://tulnit.fun/in/stream.php?id=012
+
+#EXTINF:-1 tvg-id="013" tvg-name="Colors HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" group-title="Colors",Colors HD
+https://tulnit.fun/in/stream.php?id=013
+
+#EXTINF:-1 tvg-id="014" tvg-name="Colors Rishtey" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/collors-rishtey-live-channels-16x9-3-1642676080416-1674198105431-1697532377978.jpg" group-title="Colors",Colors Rishtey
+https://tulnit.fun/in/stream.php?id=014
+
+#EXTINF:-1 tvg-id="015" tvg-name="Colors Bangla HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-bangla-new-16x9-4-1649659533344.jpg" group-title="Colors",Colors Bangla HD
+https://tulnit.fun/in/stream.php?id=015
+
+#EXTINF:-1 tvg-id="016" tvg-name="Colors Kannada HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-16x9-1677754085834.jpg" group-title="Colors",Colors Kannada HD
+https://tulnit.fun/in/stream.php?id=016
+
+#EXTINF:-1 tvg-id="017" tvg-name="Colors Marathi HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-marathi-live-channels-16x9-4-6-apr-1649257093359.jpg" group-title="Colors",Colors Marathi HD
+https://tulnit.fun/in/stream.php?id=017
+
+#EXTINF:-1 tvg-id="018" tvg-name="Colors Gujarati" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-gujarati-16x9-1713269620328.jpg" group-title="Colors",Colors Gujarati
+https://tulnit.fun/in/stream.php?id=018
+
+#EXTINF:-1 tvg-id="019" tvg-name="Colors Tamil HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ct-1644165913136.jpg" group-title="Colors",Colors Tamil HD
+https://tulnit.fun/in/stream.php?id=019
+
+#EXTINF:-1 tvg-id="020" tvg-name="Colors Infinity HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg" group-title="Colors",Colors Infinity HD
+https://tulnit.fun/in/stream.php?id=020
+
+#EXTINF:-1 tvg-id="021" tvg-name="Colors Super" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-super-live-channels-16x9-4-1642744939924.jpg" group-title="Colors",Colors Super
+https://tulnit.fun/in/stream.php?id=021
+
+#EXTINF:-1 tvg-id="022" tvg-name="Colors Cineplex HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg" group-title="Colors",Colors Cineplex HD
+https://tulnit.fun/in/stream.php?id=022
+
+#EXTINF:-1 tvg-id="023" tvg-name="Colors Cineplex Superhits" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg" group-title="Colors",Colors Cineplex Superhits
+https://tulnit.fun/in/stream.php?id=023
+
+#EXTINF:-1 tvg-id="024" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg" group-title="Colors",Colors Cineplex Bollywood
+https://tulnit.fun/in/stream.php?id=024
+
+#EXTINF:-1 tvg-id="025" tvg-name="Colors Kannada Cinema" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-cinema-16x9-1713963481807.jpg" group-title="Colors",Colors Kannada Cinema
+https://tulnit.fun/in/stream.php?id=025
+
+#EXTINF:-1 tvg-id="026" tvg-name="MTV HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg" group-title="Hotstar",MTV HD
+https://tulnit.fun/in/stream.php?id=026
+
+#EXTINF:-1 tvg-id="027" tvg-name="Nick" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets//16x9-1719554242246.jpg" group-title="Hotstar",Nick
+https://tulnit.fun/in/stream.php?id=027
+
+#EXTINF:-1 tvg-id="028" tvg-name="Sonic" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg" group-title="Hotstar",Sonic
+https://tulnit.fun/in/stream.php?id=028
+
+#EXTINF:-1 tvg-id="029" tvg-name="Nick HD+" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg" group-title="Hotstar",Nick HD+
+https://tulnit.fun/in/stream.php?id=029
+
+#EXTINF:-1 tvg-id="030" tvg-name="Nick Jr" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg" group-title="Hotstar",Nick Jr
+https://tulnit.fun/in/stream.php?id=030
+
+#EXTINF:-1 tvg-id="031" tvg-name="CNBC Awaaz" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc-awaaz-16x9-1702387934761.jpg" group-title="News",CNBC Awaaz
+https://tulnit.fun/in/stream.php?id=031
+
+#EXTINF:-1 tvg-id="032" tvg-name="CNBC Bazaar" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/whatsapp16x9-1693491956187.jpg" group-title="News",CNBC Bazaar
+https://tulnit.fun/in/stream.php?id=032
+
+#EXTINF:-1 tvg-id="033" tvg-name="CNBC TV18" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc18-shereen-bhan-16x9-2-1693479472079.jpg" group-title="News",CNBC TV18
+https://tulnit.fun/in/stream.php?id=033
+
+#EXTINF:-1 tvg-id="034" tvg-name="News18 India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News",News18 India
+https://tulnit.fun/in/stream.php?id=034
+
+#EXTINF:-1 tvg-id="035" tvg-name="CNN News18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="News",CNN News18
+https://tulnit.fun/in/stream.php?id=035
+
+#EXTINF:-1 tvg-id="036" tvg-name="News18 Tamil Nadu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="News",News18 Tamil Nadu
+https://tulnit.fun/in/stream.php?id=036
+
+#EXTINF:-1 tvg-id="037" tvg-name="News18 Lokmat" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="News",News18 Lokmat
+https://tulnit.fun/in/stream.php?id=037
+
+#EXTINF:-1 tvg-id="038" tvg-name="News18 Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="News",News18 Bangla
+https://tulnit.fun/in/stream.php?id=038
+
+#EXTINF:-1 tvg-id="039" tvg-name="News18 Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="News",News18 Kannada
+https://tulnit.fun/in/stream.php?id=039
+
+#EXTINF:-1 tvg-id="040" tvg-name="News18 Gujarati" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="News",News18 Gujarati
+https://tulnit.fun/in/stream.php?id=040
+
+#EXTINF:-1 tvg-id="041" tvg-name="News18 Punjab Haryana" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="News",News18 Punjab Haryana
+https://tulnit.fun/in/stream.php?id=041
+
+#EXTINF:-1 tvg-id="042" tvg-name="News18 Odia" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="News",News18 Odia
+https://tulnit.fun/in/stream.php?id=042
+
+#EXTINF:-1 tvg-id="043" tvg-name="News18 Assam North East" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" group-title="News",News18 Assam North East
+https://tulnit.fun/in/stream.php?id=043
+
+#EXTINF:-1 tvg-id="044" tvg-name="News18 Kerala" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" group-title="News",News18 Kerala
+https://tulnit.fun/in/stream.php?id=044
+
+#EXTINF:-1 tvg-id="045" tvg-name="News18 Rajasthan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="News",News18 Rajasthan
+https://tulnit.fun/in/stream.php?id=045
+
+#EXTINF:-1 tvg-id="046" tvg-name="News18 Bihar Jharkhand" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png" group-title="News",News18 Bihar Jharkhand
+https://tulnit.fun/in/stream.php?id=046
+
+#EXTINF:-1 tvg-id="047" tvg-name="News18 MP Chhattisgarh" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" group-title="News",News18 MP Chhattisgarh
+https://tulnit.fun/in/stream.php?id=047
+
+#EXTINF:-1 tvg-id="048" tvg-name="News18 UP Uttarakhand" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="News",News18 UP Uttarakhand
+https://tulnit.fun/in/stream.php?id=048
+
+#EXTINF:-1 tvg-id="049" tvg-name="News18 JKLH" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png" group-title="News",News18 JKLH
+https://tulnit.fun/in/stream.php?id=049
+
