@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/mar/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs90012_ld_h15_aa.png%3Flock%3D720x540" group-title="Music",9X Jhakaas
+https://mhdtvhub.com/ww/mar/play.php?id=98ff454f98320cf10e9eb4a636dc1b02
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/mar/index.php?get_logo=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FtransparentImages%2FDD-Goa-Logo_2000_X_1125_Transpharent.png" group-title="General",DD Goa
+https://mhdtvhub.com/ww/mar/play.php?id=ea0e06772237dddd4f5c3c3b7bd794a4
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/mar/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_SAHYADRI%2Fimages%2FLOGO_HD%2Fimage.png" group-title="General",DD Sahyadri
+https://mhdtvhub.com/ww/mar/play.php?id=b9f5afce823949b02cf95dc503018117
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/mar/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143038_ld_h15_aa.png%3Flock%3D720x540" group-title="Entertainment",Fakt Marathi [Not]
+https://mhdtvhub.com/ww/mar/play.php?id=a5fa4604521e619762368c97593ee416
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/mar/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FJai_Maharashtra.png" group-title="News",Jai Maharashtra
+https://mhdtvhub.com/ww/mar/play.php?id=9fb904bec9d9b6edea080fbbc04f391c
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/mar/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_LOKSHAHI%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",Lokshahi News
+https://mhdtvhub.com/ww/mar/play.php?id=34f97a95afca0dac3e4ddf5d63f63b43
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/mar/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_LOKMAT%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",News18 Lokmat
+https://mhdtvhub.com/ww/mar/play.php?id=9ac618e2e431c03a66ad29c078f466e2
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/mar/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SAAM_TV%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Undefined",Saam TV
+https://mhdtvhub.com/ww/mar/play.php?id=6931e4062cf2368cd7f3fe475eefc67a
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/mar/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SANGEET_MARATHI%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Music",Sangeet Marathi
+https://mhdtvhub.com/ww/mar/play.php?id=c8137a12084c4a6881d1f295afb83f49
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/mar/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_TV9_MARATHI%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",TV9 Marathi
+https://mhdtvhub.com/ww/mar/play.php?id=063469accc832222cce785f4bfba00d2
+#EXTINF:-1 tvg-logo="https://mhdtvhub.com/ww/mar/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG00230LKE.png%3Flock%3D720x540" group-title="News",Zee 24 Taas
+https://mhdtvhub.com/ww/mar/play.php?id=52853c4bb89c13a07550edb689b81848    
