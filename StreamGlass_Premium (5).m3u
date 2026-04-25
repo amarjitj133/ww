@@ -1,373 +1,119 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_9X_JALWA%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Music",9X Jalwa (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=18ddec1b1142e95fee4794a84997f5bc
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2F22Scope_News.png" group-title="News",22Scope News (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=cdbc825017f6897ab0db295edc6b5a79
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SYMANDTV%2Fimages%2FLOGO_HD%2FLOGO_HD_image.png" group-title="Movies",&TV International (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=853025d92f3efae67637b39e7fc3d3a1
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_AADINATH_TV%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Religious",Aadinath TV (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=c4642c099e21387efdb4ecbd58292335
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_AAJ_TAK%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",Aaj Tak (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=1c2d1d0df590ab02aed52103917b5352
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_AAJ_TAK%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",Aaj Tak HD (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=6befd4ac2d230d89735b65f26502c54f
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FIqgrV92.png" group-title="Religious",Aastha (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=5b446531193c394e177ba2813943243b
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142514_ld_h15_aa.png%3Flock%3D720x540" group-title="Religious",Aastha Bhajan (480p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=a7e332ebc58833f3ae5a7a1034555e50
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FLyWSMJS.png" group-title="Religious",Aastha Prime 1 (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=c3bb9becd31b23d04b89cfe637d2225f
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FVcZn60X.png" group-title="Religious",ABN TV India (540p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=8554815a578c288f2b2fb938794928fe
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fcf%2FABP_Ganga.svg%2F500px-ABP_Ganga.svg.png" group-title="News",ABP Ganga (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=d9a7d1ac59e4897956e2088b6ecd5f2d
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs158138_ld_h15_aa.png%3Flock%3D720x540" group-title="News",ABP News (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=f0f4fbf4b745847e807fe8aefd2c96e7
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F5ORC4tn.png" group-title="Movies",Abzy Dhakad (504p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=0bad6a369a281d05fa82b312532c0706
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FLnVgKVF.png" group-title="Movies",Abzy Movies (480p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=3758085163207ae9596d4152e600ee02
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FAdhyatam_TV.png" group-title="Religious",Adhyatm TV (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=9294015e571e4e53e0737e29b8bd90a3
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fyt3.googleusercontent.com%2FU4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg%3Ds900-c-k-c0x00ffffff-no-rj" group-title="Movies",All Time Movies (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=8c661ef442efcd25a27a30fa020546af
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FndQ8LZp.png" group-title="News",AmarUjala (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=19343bc73f8647de8f7eb2ad193bb2c4
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FAnand_TV.png" group-title="Religious",Anand TV (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=839c86358965cab74ffcc8616c1d37df
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_ANB_NEWS%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",ANB News (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=8ca195a11f6895de14bd45e38e988fed
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FtransparentImages%2FAPN.png" group-title="News",APN (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=69b51a5420a55bb43a7987762bd1c34e
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FIM4D8Wz.png" group-title="Entertainment",Apna Punjab TV (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=54013f2d399878eed33869cb753151e6
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142649_ld_h9_aa.png%3Flock%3D720x540" group-title="Religious",Aradana TV (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=7dd99d03595c0e256cb485e5f70dff9e
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_ARYAN_TV_NATIONAL%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Undefined",Aryan TV National (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=dd0a73ad7246196cbfaeb1ed386455f3
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FeKQs51V.png" group-title="News",Awaaz India TV (720p) [Not 24/7]
-https://www.mhdtvhub.com/ww/mm/play.php?id=2752e6ea0c7dfd1b23626949a44c2d55
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2Fp26iWOi.png" group-title="Religious",Awakening TV (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=9ff74fe9fe183b5f5ea3672cf97ca55c
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142695_ld_h15_aa.png%3Flock%3D720x540" group-title="Movies",B4U Kadak (1080p) [Not 24/7]
-https://www.mhdtvhub.com/ww/mm/play.php?id=d9e0d3cca9b822c32df17cb286c0a910
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FM9kMFJl.png" group-title="Movies",B4U Movies India (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=a58ff12c53e238ed2ea24d2fc223bc3f
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs158141_ld_h15_aa.png%3Flock%3D720x540" group-title="Music",B4U Music (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=9b453edaea6d37afdb9d8b338287457a
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_BANSAL_NEWS%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",Bansal News (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=a7113ce1f46fb8ecbbe588e50279c227
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FBhaktisagar.png" group-title="Religious",Bhakti Sagar (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=0e9982fc23629d3b8fe0769ca4932fdc
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",Bharat Samachar (480p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=cab96c30edddaa2d2b827804a0e22f82
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG002YJ850.png%3Flock%3D720x540" group-title="Entertainment",Big Magic (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=81c2cb1b01bf9f47ec16842af4e98e71
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FBVG.png" group-title="Education",BVG (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=ee05b11e6e3079e02026419325c97b83
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143010_ld_h15_aa.png%3Flock%3D720x540" group-title="Religious",Channel Divya (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=0cef72302b3c1a60fe0d299ce2c916ce
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_CNBC_AWAAZ%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Business",CNBC Awaaz (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=9d07b217d7aaf9444fb957fe9a0f6471
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FC_News_Bharat.png" group-title="News",Cnews Bharat (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=638b7e8a70eb7f97806fd468479190b1
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fwww.lyngsat.com%2Flogo%2Ftv%2Fdd%2Fdangal-2-in.png" group-title="Entertainment",Dangal 2 (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=c48c2e10aea0982d06248d755e5511b9
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DANGAL%2Fimages%2FLOGO_HD%2Fimage.png" group-title="General",Dangal TV (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=37ce48a3dbe2b33d071435ac4707ad45
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FDarshan_24.png" group-title="Religious",Darshan 24 (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=b1c9b27b7e11e600f3fa51c938681547
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_ARUNPRABHA%2Fimages%2FLOGO_HD%2Fimage.png" group-title="General",DD Arun Prabha (360p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=dfc4bbea7ae1f2fad4b445a343256bfe
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F4tfUIEo.png" group-title="Culture",DD Bharati (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=bc92df9d52acf2c1e4c3e4d685b6ce2d
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FC7KQiZI.png" group-title="General",DD Bihar (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=abbe8ead6848b573fea15bb0f1c5f159
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FzBg6Iuv.png" group-title="General",DD Chhattisgarh (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=b985ebb4c477920970ac1d96aa0dba59
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FtransparentImages%2FDD-Haryana-Logo_2000_X_1125_Transpharent.png" group-title="General",DD Haryana
-https://www.mhdtvhub.com/ww/mm/play.php?id=8ba0ed3b43c08a30acf3deb6ae1136e6
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142785_ld_h9_aa.png%3Flock%3D720x540" group-title="General",DD Himachal Pradesh (504p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=80d07431afde5ab22e995c552dbaad75
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142787_ld_h15_aa.png%3Flock%3D720x540" group-title="General",DD Jharkhand
-https://www.mhdtvhub.com/ww/mm/play.php?id=9693683bad9ed4033eec262d6a311abd
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_KASHIR%2Fimages%2FLOGO_HD%2Fimage.png" group-title="General",DD Kashir (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=11ed6bcb078517c384cc9fee64bb0171
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2Fx56WJEa.png" group-title="Education;Outdoor",DD Kisan (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=13c962747d063fcfe6bf6e10b1d3702d
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142790_ld_h15_aa.png%3Flock%3D720x540" group-title="General",DD Madhya Pradesh (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=aba7942b8a36dd1abac5108d505e4db3
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_IMPHAL%2Fimages%2FLOGO_HD%2Fimage.png" group-title="General",DD Manipur (504p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=9b08cf051af607f60e58ffb4611b08a7
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_SHILLONG%2Fimages%2FLOGO_HD%2Fimage.png" group-title="General",DD Meghalaya (504p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=6e0196a9ecbce00dabcf83518f0ea361
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FtransparentImages%2FDD%2520National.png" group-title="Entertainment",DD National HD (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=970d39f3f7caeb2bc26fed34426cb754
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FtransparentImages%2FDD%2520News%2520HD.png" group-title="News",DD News (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=ed9a77c0a700065e5e34b4526b9a71d3
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FtransparentImages%2FDD%2520News%2520HD.png" group-title="News",DD News HD (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=fcd78d61a769fb7ecb8ac0677478bc3b
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_RAJASTHAN%2Fimages%2FLOGO_HD%2Fimage.png" group-title="General",DD Rajasthan (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=1c874af35c8fdd46f6eb1b4da3cefa22
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs158255_ld_h15_aa.png%3Flock%3D720x540" group-title="Sports",DD Sports SD (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=38b4559ac12ee8b07c088012435a68eb
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_TRIPURA%2Fimages%2FLOGO_HD%2Fimage.png" group-title="General",DD Tripura (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=ba08100f92124e1af76086e054983ab2
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_URDU%2Fimages%2FLOGO_HD%2Fimage.png" group-title="General",DD Urdu (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=6e4d45a699213aafbeaa396d78be7dac
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142807_ld_h9_ab.png%3Flock%3D720x540" group-title="General",DD Uttar Pradesh (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=050b1bf50df11b777d2a464c211b688d
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142809_ld_h15_aa.png%3Flock%3D720x540" group-title="General",DD Uttarakhand (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=33ffdb82c7437c2e6cf3dd419338eadb
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fwww.lyngsat.com%2Flogo%2Ftv%2Fdd%2Fdhamaka-movies-b4u-in.png" group-title="Movies",Dhamaka Movies B4U (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=810676bbd0cba04390bb93baaa60534c
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FArihant_TV.png" group-title="Religious",Dharm Sandesh (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=52c1b9eb65f5bcf501011e034a0f9a3b
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FjSedjXf.png" group-title="Religious",Dheeran TV (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=f908be1c96b6e9e3af6cdddca770c690
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FDisha_tv.png" group-title="Undefined",Disha TV (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=fa80f678813abe57718db110c7e8655b
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_E24%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Entertainment",E 24 (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=889cc37bc52ab8f038512ba46de4cac2
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2Fc4ItNkB.png" group-title="Religious",Fateh TV (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=a692fe4a17b75d1f61c4d19ac4184f64
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_FIRST_INDIA_NEWS_RAJASTHAN%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",First India News (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=2bf3276f47ee5fc2aaecf72600ae62a3
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FGangaur.png" group-title="Entertainment",Gangaur TV (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=431d338ca74df836dbcedb044e811bd5
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FWDLqcWW.png" group-title="News",Global Punjab (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=221ca3245e9873b3e6eb7588522f3b90
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FEO6cYUI.png" group-title="Religious",God Stands TV Hindi
-https://www.mhdtvhub.com/ww/mm/play.php?id=49884dd05af80c33217ef38246d96853
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_GOLDMINES%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Movies",Goldmines (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=2a0e7200bede6463b971e96301556303
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fwww.lyngsat.com%2Flogo%2Ftv%2Fgg%2Fgoldmines-2-in.png" group-title="Movies",Goldmines 2 (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=0b4a53c985729e71e25da8557bf7c02f
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142881_ld_h15_aa.png%3Flock%3D720x540" group-title="Movies",Goldmines Movies (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=6d921f7ee5b75697c35553c7fee586e1
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_GYANDARSHAN%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Education",Gyandarshan (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=477258c48676e1f349766adc3db4fe5a
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_HARKHABAR%2Fimages%2FLOGO_HD%2FLOGO_HD_image.png" group-title="News",Har Khabar (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=9f3d179041c2ab98e5f8d58a573ae7b9
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_HINDI_KHABAR%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",Hindi Khabar (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=62fb50464ad6b143b9e01dac9393b252
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143131_ld_h15_aa.png%3Flock%3D720x540" group-title="Religious",Hindu Dharmam (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=0d3bba6b18df6e9421801769cf2f0d4b
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FHNN24x7.png" group-title="News",HNN 24x7 (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=88ec52bf1a74e52cd02f8e9a673234b8
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_HORNBILL%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",Hornbill TV (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=324bba99932f929ee1c6289963a5a151
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_IBC24%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",IBC 24 (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=0667d9cf32402bed0d3509d5b22cba59
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FexRpVmL.png" group-title="News",Ind 24 (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=b14b6cf36c84bc69cf8dab5b69a47601
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FIndia_Daily_24x7.png" group-title="News",India Daily Live (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=f03b2627e9f09fb70e5806a7257615d7
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_INDIA_TV%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",India TV (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=780b45f9b08002267186b3a4fe545203
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fplay-lh.googleusercontent.com%2F2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA" group-title="Documentary;News",India TV Aap Ki Adalat (1080p) [Geo-blocked]
-https://www.mhdtvhub.com/ww/mm/play.php?id=dff09b9effc663ce0122847ec4cd921b
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FIndia_Voice.png" group-title="News",India Voice (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=21961e06d21d5f10158114bd70f28195
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_INH_24X7%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",INH 24x7 (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=33b16a468ed73185fc04b5a201cfaddd
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FInsync.png" group-title="Music",Insync (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=cb3d9c41e04030e35710fe9f11f617b8
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_ISHWAR_TV%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Religious",Ishwar Bhakti TV (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=0b4e5efa9ec7f4bab25d211edb0cb689
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_JAN_TV%2Fimages%2FLOGO_HD%2Fimage.png" group-title="General",Jan TV (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=2767047f968b3adbe5253ac53704e9d6
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_JANTA_TV%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",Janta TV (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=f1f64559e5d77c91068a63dddf80fc13
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143230_ld_h15_aa.png%3Flock%3D720x540" group-title="Religious",Jinvani Channel (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=033413d945a75c401ed63f46930e22e2
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FK_News_India.png" group-title="News",K News India (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=d2bc6b4888759421009aef6de82ed7fd
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2Fw6uXMrK.png" group-title="Religious",Kanshi TV (720p) [Not 24/7]
-https://www.mhdtvhub.com/ww/mm/play.php?id=2681914432890953e7dff6561be11b39
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FqfINs2r.png" group-title="News",Kashish News (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=4ee441634daef9568fb5071809b959a3
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143259_ld_h15_aa.png%3Flock%3D720x540" group-title="General",Kaumudy TV (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=04612b7f342df9ccd524aaabc9b0adee
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_KHABAR_FAST%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",Khabar Fast (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=985a0b2669649619250b25da47a165ee
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143262_ld_h15_aa.png%3Flock%3D720x540" group-title="News",Khabrain Abhi Tak (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=15d83755d39bd46eeb6a00083fff5a74
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.ibb.co%2Fv1C0bdR%2Flogo-1.png" group-title="Religious",Life TV (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=b798f486c96a575daf478f3cc953c9a0
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FWsOfy19.png" group-title="Religious",Lighting Lives Blessing Nations TV South Asia (LLBN) (480p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=b6645a702760ca5e2d4de3737407609e
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FMaha_Movies.png" group-title="Movies",Maha Movie (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=7a293d8caaff69b142e87f2890bf0b85
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143302_ld_h15_aa.png%3Flock%3D720x540" group-title="Movies",Manoranjan Grand (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=eb7c56ee3fd0543d814e97a582267af5
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_MANORANJAN_TV%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Entertainment",Manoranjan TV (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=70977aae50c0d83543f49210d505b739
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FTTAGFHG.png" group-title="Movies",MBC Bollywood (1080p) [Geo-blocked]
-https://www.mhdtvhub.com/ww/mm/play.php?id=9c015b7a7f2260ca42f3536e5dede6cf
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FklNH4tV.png" group-title="Religious",Mercy TV (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=f915d4accb8b8ea45399bf36a05b01f9
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdilse.mhone.in%2Fwp-content%2Fuploads%2F2022%2F02%2FMH-ONE-dil-se-LOGO-white-copy.png" group-title="Entertainment",MH One Dil Se (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=a9c2686a5065b8afc4814153df05cd8d
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fwww.lyngsat.com%2Flogo%2Ftv%2Fmm%2Fmh-1-movies-in.png" group-title="Movies",MH One Movies (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=dc75ee6b12891f8a6a22bf37ca3b8a34
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FTHJEAqJ.png" group-title="Movies",Movieplex (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=f2c94d94bf1b7a73f0058f8be29905c0
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FaVts0sz.png" group-title="Religious",MTA2 Europe (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=7eed2175aadb7f933fb74cf0d1b1a365
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F3Nl8Tpu.png" group-title="Religious",MTA7 Asia (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=5b01106e621b39d727c4539cc1d0a062
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143563_ld_h15_aa.png%3Flock%3D720x540" group-title="Music",Music India (720p) [Not 24/7]
-https://www.mhdtvhub.com/ww/mm/play.php?id=03212f5f77c01575b02e183a996ea7ec
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FEBEIpPo.png" group-title="News",Nagaland TV (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=87366ba77394f0f939c438eb941bd7e9
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FNalsXTo.png" group-title="Religious",Namdhari (404p) [Not 24/7]
-https://www.mhdtvhub.com/ww/mm/play.php?id=6f5cae71cf9b3f01f5327608719ec9d5
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_GOOD_TIMES%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Lifestyle",NDTV Good Times (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=8e12c607b5ee8fdccbaec0e97330a75f
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NDTV_INDIA%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",NDTV India (480p) [Not 24/7]
-https://www.mhdtvhub.com/ww/mm/play.php?id=267627b525b8f1f4e7a245937e4b6efb
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NDTV_MPCG%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",NDTV Madhya Pradesh Chhattisgarh (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=4a1820745bec960d1f607ba0e8329be4
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NDTV_RAJASTHAN%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",NDTV Rajasthan (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=3a4f285ed4791896002044171f8c4f47
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FL5GeJFb.png" group-title="News",NE News (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=2bb1eb8701afb428b31b7cf4ca9921c0
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FNetwork_10.png" group-title="General",Network 10
-https://www.mhdtvhub.com/ww/mm/play.php?id=79f332e239570172a0cd75662df46168
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FNews11.png" group-title="General",News 11 (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=1d747129a37b9788feb8d14d0c95411e
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_BANGLA%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",News18 Bangla (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=18bf4dc361b9ed8a95b79006b1b40dc9
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FFQ3zDZE.png" group-title="News",News18 Bihar Jharkhand (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=97d828a9d63b96172f65111c1538f3be
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_INDIA%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",News18 India (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=9d9b8984feeabb4fc989f3957cc113ac
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143611_ld_h15_aa.png%3Flock%3D720x540" group-title="News",News18 JKLH (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=453e45034e11533fcf1899486d166f4f
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_MADHYA_PRADESH_CHHATTISGARH%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",News18 Madhya Pradesh/Chhattisgarh (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=576ca7d77e4b33d86299bfed79faf8cd
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_PUNJAB_HARYANA%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",News18 Punjab/Haryana/Himachal (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=34bce54059fab7e8a0c997a058530c26
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_RAJASTHAN%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",News18 Rajasthan (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=49e00933a9b9b559c69cd499ff2a8514
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_UTTAR_PRADESH_UTTARAKHAND%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",News18 Uttar Pradesh Uttarakhand (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=2925287e2e585fd30d5b362ab392c396
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs90009_ld_h15_aa.png%3Flock%3D720x540" group-title="News",News 24 (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=aec8684e355519279afd1a8044fed2b3
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FlT8rihP.png" group-title="News",News Daily 24 (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=ab41f6d83c4914fc0e4821829271ac4a
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS_NATION%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",News Nation (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=77dcc729f970815e885c354c2ec237c1
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_PEACE_OF_MIND%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Religious",Peace Of Mind TV (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=a31e75227db2a3c74a46180855eedfd5
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_RAFTAAR_MEDIA%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Undefined",Raftaar Media (240p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=27be33e7eaa239305c1cfc3060a115d2
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143724_ld_h15_aa.png%3Flock%3D720x540" group-title="News",Republic Bharat (1080p) [Geo-blocked]
-https://www.mhdtvhub.com/ww/mm/play.php?id=c3cc4659fe5c3887d07a76c59d92fd17
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_RONGEEN_TV%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Undefined",Rongeen TV (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=600b6a077e046c3cce14b9032d58cc90
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SAAM_TV%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Undefined",Saam TV
-https://www.mhdtvhub.com/ww/mm/play.php?id=6931e4062cf2368cd7f3fe475eefc67a
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SADHNA%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Religious",Sadhna (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=e00b37db81cae27a76ef576a268a0da6
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSadhna_News_Plus.png" group-title="News",Sadhna Plus News (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=eaad34c452ac2e0cb906d49d4c2ca3aa
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F3odbJJq.png" group-title="News",Sahana News (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=a1abe89edee3745c86a4bcb1fafb66da
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD%2Fimages%2FLOGO_HD%2FLOGO_HD_image.png" group-title="Legislative",Sansad TV 1 (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=b2eae2bf018cfb97b97c210653ff7f9d
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143761_ld_h15_aa.png%3Flock%3D720x540" group-title="Legislative",Sansad TV 2 (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=a091754c4f431283247eb3c0c0bd9750
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SANSKAR%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Culture;Religious",Sanskar TV (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=26cce03c5d61b8d000f63a0b977b3f63
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FAU5vSPF.png" group-title="Religious",Sanskar UK (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=99d30c95a2a1e7d1228c1a98d89d14b2
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F5WBWruX.png" group-title="Religious",Sanskar USA (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=32803d5473491985a9358790f86dfeb5
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2Fmu2B6hw.png" group-title="Religious",Sanskar Web TV (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=d01b5228d485f4c511f876586ae3c627
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143763_ld_h15_aa.png%3Flock%3D720x540" group-title="Undefined",Santvani Channel (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=cc729d5ad38a503509f959227486b763
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SATSANG%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Religious",Satsang TV (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=1fab71dba88e9f2865458551d5185f69
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F40kNu1w.png" group-title="Religious",Satsang Web TV (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=460d5a06c887d4d5ddef3cdb8a40b657
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG00297P3E.png%3Flock%3D720x540" group-title="Movies",Shemaroo Josh (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=eb077e6bc8f16219e9cb0df428d6ec12
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SHEMAROO_TV%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Entertainment",Shemaroo TV (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=1efd660bb3fa7e6c9c4d82b32119570f
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SHEMAROO_UMANG%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Entertainment",Shemaroo Umang (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=71ba6db7dc5f980dec21e8d814bec1c5
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FRQhorAG.png" group-title="Movies",Shubh Cinema TV (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=8c31ad115356a86f728f9c75ed793a1c
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SHUBH_TV%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Undefined",Shubh TV (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=c32a0aa7dc1d9afca46478f62b0a572b
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Religious",Shubhsandesh TV (720p) [Not 24/7]
-https://www.mhdtvhub.com/ww/mm/play.php?id=255af488f011e5eefc0d526333f62140
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142920_ld_h9_aa.png%3Flock%3D720x540" group-title="Music",Songdew TV (396p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=f3c854a685421e6e8c83b8f07f4e61df
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F9Qq8DKh.png" group-title="Undefined",Sony KAL Hindi (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=0bbdb0fda32753fc5b3fed33737ead47
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSteelbird_Music.png" group-title="Music",Steelbird Music (720p) [Not 24/7]
-https://www.mhdtvhub.com/ww/mm/play.php?id=24d89ebe0819b8b286e446b038ba2537
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SUDARSHAN_NEWS%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",Sudarshan News (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=ec0b50e4a33b67afd88592c71b441f8c
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSVBC4.png" group-title="Religious",SVBC 4 (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=244fd9f4cc1115242aa166ba96b822fb
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSwadesh_News.png" group-title="News",Swadesh News (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=5e473079908fb02961230b9f1cb28cbc
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSMBC_TV.png" group-title="News",Swaraj Express SMBC (720p) [Not 24/7]
-https://www.mhdtvhub.com/ww/mm/play.php?id=7cc7c46d4784dbba084a61b9125861bb
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FFhl1dtY.jpg" group-title="Culture",TBN TV (720p) [Not 24/7]
-https://www.mhdtvhub.com/ww/mm/play.php?id=8f58ca334c55be63a2e2b9de4dc01871
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FPCVOdup.png" group-title="Undefined",Tehzeeb TV (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=2342143c05f1a8d26ff8ce55e6a5f9c3
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT_HD%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",Times Now Navbharat (1080p) [Geo-blocked]
-https://www.mhdtvhub.com/ww/mm/play.php?id=7f79092cb790e606975aaedb03479d7e
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FLPwRdmF.png" group-title="Religious",Total Bhakti (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=49fa88e96e6a5bbd167fa0da28ad51b1
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_TOTAL_TV%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Undefined",Total TV Haryana (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=cb603d06a301ece8f123f409f10706e9
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_TRAVELXP%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Travel",Travelxp 4K HDR (2160p) [Geo-blocked]
-https://www.mhdtvhub.com/ww/mm/play.php?id=9337ca9973786faa5801d98bd5171e8f
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_TV9_BHARATVARSH%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",TV9 Bharatvarsh (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=2205663968af09048b0158254dee1f7d
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2Fa0BRhvr.png" group-title="Undefined",TV Asia (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=2d0865fef3ffd4d71a2b26976a69da56
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FUnique_Tv.png" group-title="Entertainment;Kids",Unique TV (576p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=9746e66bec80cf1caad42fddd4a44660
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs144069_ld_h15_aa.png%3Flock%3D720x540" group-title="Religious",Vedic (480p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=007b819516ac2258f29ec3d9e3c209ba
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_VIP_NEWS%2Fimages%2FLOGO_HD%2Fimage.png" group-title="News",VIP News (360p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=f328b4dca2f9042fad447e87923b76f2
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FKIEKOt1.png" group-title="Weather",Weatherspy
-https://www.mhdtvhub.com/ww/mm/play.php?id=0a04189f169bed4164f811d141c8910c
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FYRF_Music.png" group-title="Music",YRF Music (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=cace9bada6c7227c470d48fa8058ef7f
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG00230QBL.png%3Flock%3D720x540" group-title="News",Zee Bharat (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=a481904a76b14f453d83a90c55653b23
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG00230YYJ.png%3Flock%3D720x540" group-title="Business",Zee Business (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=1aeb641dfae0e1c8452647d3eba29801
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fd3bd0tgyk368z1.cloudfront.net%2Fzeelg%2FLG%2520logo%2520artwork%2F400x200%2Fzcinecla.png" group-title="Classic",Zee Cine Classic (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=a6e17516e0157485232f0622a360ea27
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fd3bd0tgyk368z1.cloudfront.net%2Fzeelg%2FLG%2520logo%2520artwork%2F400x200%2Fzcomedynation.png" group-title="Comedy",Zee Comedy Nation (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=3dc0ec2dd4eb4e32495523cd3c52df0b
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG0023166M.png%3Flock%3D720x540" group-title="News",Zee Delhi NCR Haryana (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=484e8eeb065b94c1cfd39ebeef187612
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fd2mxb63djushzm.cloudfront.net%2Fimages%2FZee_Dil_Se.png" group-title="Entertainment",Zee Dil Se (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=4e4f2fb7bd2e914f5da066589672783f
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fd3bd0tgyk368z1.cloudfront.net%2Fzeelg%2FLG%2520logo%2520artwork%2F400x200%2Fzhornights.png" group-title="Entertainment",Zee Horror Nights (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=c6b08b1c30f4b110f1d148c38f1d758b
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG002316X5.png%3Flock%3D720x540" group-title="News",Zee Madhya Pradesh Chhattisgarh (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=9f8654a32f2ea2cea179bc2e7d8ebd5e
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG0023VWYC.png%3Flock%3D720x540" group-title="News",Zee News (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=cca8a14eca00f3937a185a959a626ca1
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG00231732.png%3Flock%3D720x540" group-title="News",Zee Rajasthan (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=1818598c59533f9dfc878e265a072bd5
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fd3bd0tgyk368z1.cloudfront.net%2Fzeelg%2FLG%2520logo%2520artwork%2F400x200%2Fzsouthflix.png" group-title="Movies",Zee South Flix (1080p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=9b351aa47d865c34c7c56b06e1e2e40b
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG002317GQ.png%3Flock%3D720x540" group-title="News",Zee Uttar Pradesh/Uttarakhand (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=26881ceddcae0554d584696708947d8a
-#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_ZOOM%2Fimages%2FLOGO_HD%2Fimage.png" group-title="Music",Zoom Global (720p)
-https://www.mhdtvhub.com/ww/mm/play.php?id=46bfe6a2d09df80705c7cb5e0125eba7
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FNick_Hindi.png" group-title="Kids (JioTV)",Nick Hindi
+https://www.mhdtvhub.com/ww/kdi/play.php?id=9286bc50342014c889740ca3da692693
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FPogo_Hindi.png" group-title="Kids (JioTV)",Pogo Hindi
+https://www.mhdtvhub.com/ww/kdi/play.php?id=7009b7da6358009499461fbf60f74b4c
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2Fsonic_Hindi.png" group-title="Kids (JioTV)",Sonic Hindi
+https://www.mhdtvhub.com/ww/kdi/play.php?id=d8e22df1850ef235daa5fae86103eb6e
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2Fgreengold.png" group-title="Kids (JioTV)",Green Gold TV
+https://www.mhdtvhub.com/ww/kdi/play.php?id=70f262e3abab42a582112ec96e23956e
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FCNHindi.png" group-title="Kids (JioTV)",Cartoon Network Hindi
+https://www.mhdtvhub.com/ww/kdi/play.php?id=6de62d58a8ea8dd2f55d19aae891b2f5
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FPower_Kids_TV.png" group-title="Kids (JioTV)",Power Kids TV
+https://www.mhdtvhub.com/ww/kdi/play.php?id=c6c2ab28c825b348242af202b464f998
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FGubbare.png" group-title="Kids (JioTV)",Gubbare
+https://www.mhdtvhub.com/ww/kdi/play.php?id=33db64f794a8ccd7f79d10101405b548
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FNick_Junior.png" group-title="Kids (JioTV)",Nick Junior
+https://www.mhdtvhub.com/ww/kdi/play.php?id=dbf90250a047e623d83bef8abb2fd9b4
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FCNTelugu.png" group-title="Kids (JioTV)",Cartoon Network Telugu
+https://www.mhdtvhub.com/ww/kdi/play.php?id=4c7e0569f7b2881ac2ac03eb2890ffb3
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2Fsonic_Tamil.png" group-title="Kids (JioTV)",sonic Tamil
+https://www.mhdtvhub.com/ww/kdi/play.php?id=764d2ca65c76c69a640777a6911fa948
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FPogo_Tamil.png" group-title="Kids (JioTV)",Pogo Tamil
+https://www.mhdtvhub.com/ww/kdi/play.php?id=f10644bae5632e8dadaaf9b8c00ed4e4
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FNick_Telugu.png" group-title="Kids (JioTV)",Nick Telugu
+https://www.mhdtvhub.com/ww/kdi/play.php?id=2b9a49fbe14f101f6e5acabc69fb10c9
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FNick_Tamil.png" group-title="Kids (JioTV)",Nick Tamil
+https://www.mhdtvhub.com/ww/kdi/play.php?id=cb7fc6855a0ba2be0ef6471d076c586d
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FNickelodeon_Jr.png" group-title="Kids (JioTV)",Nickelodeon Jr.
+https://www.mhdtvhub.com/ww/kdi/play.php?id=79b4c581ae82fdc8f9351a93055dc1b3
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FDiscoveryKidsTam.png" group-title="Kids (JioTV)",Discovery Kids Tamil
+https://www.mhdtvhub.com/ww/kdi/play.php?id=c3aab1faaf57ed3106fe67524f641286
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FTEST14_HD.png" group-title="Kids (JioTV)",TEST14 HD
+https://www.mhdtvhub.com/ww/kdi/play.php?id=715d8ad62e03a827b578ccb8f9f126f4
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FDiscoveryKidsHin.png" group-title="Kids (JioTV)",Discovery Kids Hindi
+https://www.mhdtvhub.com/ww/kdi/play.php?id=144549fc38cac8f95bcc684b691d0d62
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FChintu_TV.png" group-title="Kids (JioTV)",Chintu TV
+https://www.mhdtvhub.com/ww/kdi/play.php?id=337e96a0220a6cb096085f72c360601c
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FKochu_TV.png" group-title="Kids (JioTV)",Kochu TV
+https://www.mhdtvhub.com/ww/kdi/play.php?id=fc4f2ca3319cf56b6775f802c1f9e09f
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FChutti_TV.png" group-title="Kids (JioTV)",Chutti TV
+https://www.mhdtvhub.com/ww/kdi/play.php?id=e4e2eeb2eee604e033751cc4bb9f83ac
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FKushi_TV.png" group-title="Kids (JioTV)",Kushi TV
+https://www.mhdtvhub.com/ww/kdi/play.php?id=1ed63e8b3440876875601fcaeaef0ccd
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FCNTamil.png" group-title="Kids (JioTV)",Cartoon Network Tamil
+https://www.mhdtvhub.com/ww/kdi/play.php?id=2b3e1f4589a7720b373979804c508a29
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSonyYAYHin.png" group-title="Kids (JioTV)",Sony Yay Hindi
+https://www.mhdtvhub.com/ww/kdi/play.php?id=86c8bd329816d4cb444b094dfcb86d36
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSonyYAYTam.png" group-title="Kids (JioTV)",Sony Yay Tamil
+https://www.mhdtvhub.com/ww/kdi/play.php?id=feb3d9e881653eced23eec87b67d471d
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSonyYAYTel.png" group-title="Kids (JioTV)",Sony Yay Telugu
+https://www.mhdtvhub.com/ww/kdi/play.php?id=cb3008fb8b724cb735177a5ae06af5e0
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FCNHDEnglish.png" group-title="Kids (JioTV)",Cartoon Network HD+ English
+https://www.mhdtvhub.com/ww/kdi/play.php?id=31eaa68cc42fe79570eaadcf9d51923c
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FCNHDTelugu.png" group-title="Kids (JioTV)",Cartoon Network HD+ Telugu
+https://www.mhdtvhub.com/ww/kdi/play.php?id=c84945049171909b06a3e3245fd850d4
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FCNHDTamil.png" group-title="Kids (JioTV)",Cartoon Network HD+ Tamil
+https://www.mhdtvhub.com/ww/kdi/play.php?id=35dfac52bc96f60fabf67aba73f3a906
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FNick_HD_Plus.png" group-title="Kids (JioTV)",Nick HD+
+https://www.mhdtvhub.com/ww/kdi/play.php?id=625caf108c2efe0a25b3d3a8439a210c
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSonic_Telugu.png" group-title="Kids (JioTV)",Sonic Telugu
+https://www.mhdtvhub.com/ww/kdi/play.php?id=7d33289bfa84993c2a858e7e0f667111
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSonic_Kannada.png" group-title="Kids (JioTV)",Sonic Kannada
+https://www.mhdtvhub.com/ww/kdi/play.php?id=2ae407d5d85383f611e7a2443bde871a
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FNick_Kannada.png" group-title="Kids (JioTV)",Nick Kannada
+https://www.mhdtvhub.com/ww/kdi/play.php?id=2e027bac8c4600379d7f22d87b0dd677
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FNick_Malayalam.png" group-title="Kids (JioTV)",Nick Malayalam
+https://www.mhdtvhub.com/ww/kdi/play.php?id=7c821d3fb02a25061898c2cdfe55f31b
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FNick_Bangla.png" group-title="Kids (JioTV)",Nick Bangla
+https://www.mhdtvhub.com/ww/kdi/play.php?id=513440936a8afc1e67b6acfcf7a3ca08
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FNick_Marathi.png" group-title="Kids (JioTV)",Nick Marathi
+https://www.mhdtvhub.com/ww/kdi/play.php?id=30d266966faa398dfa6ce9c692365156
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSonic_Malayalam.png" group-title="Kids (JioTV)",Sonic Malayalam
+https://www.mhdtvhub.com/ww/kdi/play.php?id=68b57d0c67aa928cf9d794ae5c0f2a7b
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSonic_Bangla.png" group-title="Kids (JioTV)",Sonic Bangla
+https://www.mhdtvhub.com/ww/kdi/play.php?id=7cab3c02e03961f7928463460c4bbd82
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSonic_Marathi.png" group-title="Kids (JioTV)",Sonic Marathi
+https://www.mhdtvhub.com/ww/kdi/play.php?id=b5b8bff91a3514519b658626c8a8f9fd
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FHoopla_Kids_TV.png" group-title="Kids (JioTV)",HooplaKidz TV
+https://www.mhdtvhub.com/ww/kdi/play.php?id=02b8627fe95dcb5c46c577892e778c5f
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FPogo_Telugu.png" group-title="Kids (JioTV)",Pogo Telugu
+https://www.mhdtvhub.com/ww/kdi/play.php?id=80046257dbb88dbab0d4057130ac4e84
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FBBC_Cbeebies.png" group-title="Kids (JioTV)",BBC Cbeebies
+https://www.mhdtvhub.com/ww/kdi/play.php?id=0e36f0734a4bedf3066b97e31f42482b
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FPogo_Kan.png" group-title="Kids (JioTV)",Pogo Kannada
+https://www.mhdtvhub.com/ww/kdi/play.php?id=c4c0a1ac9c89419ffb5a377869edc8e6
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FPogo_Mal.png" group-title="Kids (JioTV)",Pogo Malayalam
+https://www.mhdtvhub.com/ww/kdi/play.php?id=6db60484973ff8552c78b8a0edb88eeb
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FPogo_Mar.png" group-title="Kids (JioTV)",Pogo Marathi
+https://www.mhdtvhub.com/ww/kdi/play.php?id=8abe5741ee0dcc3c7df76c153bf32cc5
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FCNKannada.png" group-title="Kids (JioTV)",Cartoon Network Kannada
+https://www.mhdtvhub.com/ww/kdi/play.php?id=a70b98f9ce1e47d43585705543797bb1
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FCNMalayalam.png" group-title="Kids (JioTV)",Cartoon Network Malayalam
+https://www.mhdtvhub.com/ww/kdi/play.php?id=cdb954906a00cb498d939c0dcd55b40f
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2Fzbcatun.png" group-title="Kids (JioTV)",ZB Cartoon
+https://www.mhdtvhub.com/ww/kdi/play.php?id=fb6a1ef7d8801a24525b76ffd990748f
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSonyYAYKan.png" group-title="Kids (JioTV)",SONY YAY Kannada
+https://www.mhdtvhub.com/ww/kdi/play.php?id=bbcbb2dcf451347e4ac96dc84be93123
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSonyYAYMal.png" group-title="Kids (JioTV)",SONY YAY Malayalam
+https://www.mhdtvhub.com/ww/kdi/play.php?id=6d89736df406fb0379e6ca4118fb850d
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSonyYAYBen.png" group-title="Kids (JioTV)",SONY YAY Bengali
+https://www.mhdtvhub.com/ww/kdi/play.php?id=e8a54732f20490166bd14891ecc8e106
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FDiscoveryKidsKan.png" group-title="Kids (JioTV)",Discovery Kids Kannada
+https://www.mhdtvhub.com/ww/kdi/play.php?id=2253dbfe5f549a70f2e5acd293951543
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FCNHDHindi.png" group-title="Kids (JioTV)",Cartoon Network HD+ Hindi
+https://www.mhdtvhub.com/ww/kdi/play.php?id=2292dc87b26ec5031a66770b80b52f9e
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FDiscoveryKidsTel.png" group-title="Kids (JioTV)",Discovery Kids Telugu
+https://www.mhdtvhub.com/ww/kdi/play.php?id=f9eb4a533cb506d909c5affdd0c6ff5e
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FDiscoveryKidsMal.png" group-title="Kids (JioTV)",Discovery Kids Malayalam
+https://www.mhdtvhub.com/ww/kdi/play.php?id=1922a704b91e04fe55dd90c6611e9bb6
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FCNMarathi.png" group-title="Kids (JioTV)",Cartoon Network Marathi
+https://www.mhdtvhub.com/ww/kdi/play.php?id=e8cced95aa3bf2294715c1a29de183a9
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FCNHDKannada.png" group-title="Kids (JioTV)",Cartoon Network HD+ Kannada
+https://www.mhdtvhub.com/ww/kdi/play.php?id=7b1ea78d972c964d963b1278883da1d7
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FCNHDMalayalam.png" group-title="Kids (JioTV)",Cartoon Network HD+ Malayalam
+https://www.mhdtvhub.com/ww/kdi/play.php?id=945d5a4d74930c2de1ec6416e3d3113b
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FCNHDMarathi.png" group-title="Kids (JioTV)",Cartoon Network HD+ Marathi
+https://www.mhdtvhub.com/ww/kdi/play.php?id=68ea5764a5ad0d380f489ac74eadd087
+#EXTINF:-1 tvg-logo="https://www.mhdtvhub.com/ww/kdi/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSony_YAY_Hin.png" group-title="Kids (JioTV)",Sony YAY
+https://www.mhdtvhub.com/ww/kdi/play.php?id=93bd38f05028d3244634e773a84e76a9
